@@ -1,0 +1,6 @@
+[book]
+authors = ["vdeturckheim"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Advanced Node.js"

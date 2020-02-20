@@ -3,7 +3,7 @@ name: Check spelling
 on: [push]
 
 jobs:
-  build:
+  spell-md:
 
     runs-on: ubuntu-latest
 

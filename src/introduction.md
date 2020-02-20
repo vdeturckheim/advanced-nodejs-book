@@ -21,4 +21,3 @@ This book will often provide very hacky solutions to certain problems.
 It is expected that the reader will have the pragmatism and the common sense
 to know what should be done in production and what should only be done in
 staging or development environment.
-staging or development environment. staging or development environment. staging or development environment.

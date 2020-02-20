@@ -2,4 +2,4 @@
   ID = "3a0c90aa-f2b9-4932-8e65-38e633f788d4"
 
 [build]
-  publish = "build"
+  publish = "book"

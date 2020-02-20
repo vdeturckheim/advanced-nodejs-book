@@ -3,7 +3,7 @@ name: MD lint
 on: [push]
 
 jobs:
-  build:
+  lint-md:
 
     runs-on: ubuntu-latest
 

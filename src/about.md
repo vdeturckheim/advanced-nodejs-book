@@ -12,6 +12,6 @@ or outdated content.
 
 This book is provided under the following license
 
-```txt
+```template
 {{#include ../LICENSE}}
 ```
